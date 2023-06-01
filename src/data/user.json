@@ -1,28 +1,28 @@
 {
     "harsh": {
-        "aswin": [1, 5],
+        "ajay": [1, 5],
         "pravin": [3, 4, 5],
-        "owes": ["aswin", "debkanta", "sankalp"]
+        "owes": ["ajay", "alexa", "babbu"]
     },
-    "aswin": {
+    "ajay": {
         "harsh": [6, 7, 8],
         "pravin": [8],
-        "owes": ["harsh", "pravin", "debkanta", "sankalp"]
+        "owes": ["harsh", "pravin", "alexa", "babbu"]
     },
     "pravin": {
-        "aswin": [2],
-        "owes": ["harsh", "aswin"]
+        "ajay": [2],
+        "owes": ["harsh", "ajay"]
     },
-    "debkanta": {
-        "aswin": [9],
-        "sankalp": [9],
+    "alexa": {
+        "ajay": [9],
+        "babbu": [9],
         "harsh": [9],
-        "owes": ["sankalp"]
+        "owes": ["babbu"]
     },
-    "sankalp": {
-        "aswin": [10],
-        "debkanta": [10],
+    "babbu": {
+        "ajay": [10],
+        "alexa": [10],
         "harsh": [10],
-        "owes": ["debkanta"]
+        "owes": ["alexa"]
     }
 }

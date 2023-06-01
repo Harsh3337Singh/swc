@@ -1,11 +1,11 @@
 const initialState = {
-    user:'aswin',
+    user:'ajay',
     debt:[],
     credit:[]
 };
 
 function rootReducer(state = initialState, action) {
-    if(action.type == "update_user") {
+    if(action.type === "update_user") {
         
         return {
             ...state,

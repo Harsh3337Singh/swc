@@ -1,10 +1,10 @@
 {
     "kashmir": {
-        "users": ["harsh", "aswin", "pravin"],
+        "users": ["harsh", "ajay", "pravin"],
         "transaction": [2, 3, 4, 7, 8]
     },
     "goa": {
-        "users": ["santhosh", "aswin", "shankalp", "harsh"],
+        "users": ["santhosh", "ajay", "shankalp", "harsh"],
         "transaction": [1, 5, 6, 9, 10]
     }
 }

@@ -3,13 +3,13 @@
     "1": {
         "amount": "1000",
         "paid_by": "harsh",
-        "owes": ["aswin"],
+        "owes": ["ajay"],
         "desc": "Shopping"
     },
     "2": {
         "amount": "300",
         "paid_by": "pravin",
-        "owes": ["aswin"],
+        "owes": ["ajay"],
         "desc": "Cab"
     },
     "3": {
@@ -27,37 +27,37 @@
     "5": {
         "amount": "400",
         "paid_by": "harsh",
-        "owes": ["pravin", "aswin"],
+        "owes": ["pravin", "ajay"],
         "desc": "Food"
     },
     "6": {
         "amount": "400",
-        "paid_by": "aswin",
+        "paid_by": "ajay",
         "owes": ["harsh"],
         "desc": "Bus"
     },
     "7": {
         "amount": "100",
-        "paid_by": "aswin",
+        "paid_by": "ajay",
         "owes": ["harsh"],
         "desc": "Auto"
     },
     "8": {
         "amount": "1000",
-        "paid_by": "aswin",
+        "paid_by": "ajay",
         "owes": ["harsh", "pravin"],
         "desc": "Travel"
     },
     "9": {
         "amount": "1000",
-        "paid_by": "debkanta",
-        "owes": ["aswin", "sankalp", "harsh"],
+        "paid_by": "alexa",
+        "owes": ["ajay", "babbu", "harsh"],
         "desc": "Snacks"
     },
     "10": {
         "amount": "3000",
-        "paid_by": "sankalp",
-        "owes": ["aswin", "debkanta", "harsh"],
+        "paid_by": "babbu",
+        "owes": ["ajay", "alexa", "harsh"],
         "desc": "Hotel"
     }
 }
